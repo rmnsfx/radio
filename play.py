@@ -112,7 +112,7 @@ def home():
                                                                                  
                             for i in range (100,0,-1):
                                 player.audio_set_volume(i)
-                                time.sleep(0.01)
+                                time.sleep(0.05)
                                 
                             #player.stop()               
                         
